@@ -1,8 +1,4 @@
-RawData/hsiao_inpres_with_numeric_birthpl.dta
-RawData/hsiao_inpres.csv
-RawData/original_Duflo_2001_inpres_data.dta
-RawData/susenas_FullFour.dta
-RawData/susenas_HarvardLibrary.dta
-RawData/susenas_HsiaoSent.dta
-CleanData/CompareToRoodmanPreppedData_FullFour.dta
-CleanData/CompareToRoodmanPreppedData_HarvardLibrary.dta
+RawData/*
+!RawData/regency_level_vars_Roodman.dta
+CleanData/*
+!CleanData/.gitkeep
